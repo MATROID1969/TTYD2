@@ -1,0 +1,276 @@
+{
+  "dataset": "invoice",
+  "row_semantics": "1 sor = 1 számla",
+  "source": "data/data_source.csv",
+  "fields": [
+    {
+      "name": "invoice_id",
+      "type": "numeric",
+      "min": 1001.0,
+      "max": 29648001.0,
+      "description": "Számla azonosítója - adatbázis azonosítója, nem publikus információ"
+    },
+    {
+      "name": "invoice_nr",
+      "type": "categorical",
+      "unique_count": 28448,
+      "representation": "sampled",
+      "examples": [
+        "INVOICE000001/2023",
+        "INVOICE000002/2023",
+        "INVOICE000003/2023",
+        "INVOICE000004/2023",
+        "INVOICE000005/2023",
+        "INVOICE2000006/2023",
+        "INVOICE2000007/2023"
+      ],
+      "description": "Számlaszám, ez van a számlán feltüntetve"
+    },
+    {
+      "name": "d_dbbeg",
+      "type": "date",
+      "min": "2016-02-12",
+      "max": "2025-10-22",
+      "description": "Az adott számla adatai mikor kerültek rögzítésre az adatbázisban"
+    },
+    {
+      "name": "posting_date",
+      "type": "date",
+      "min": "2016-01-18",
+      "max": "2025-10-22",
+      "description": "Számla kiállításának a dátuma"
+    },
+    {
+      "name": "c_placeofdelivery",
+      "type": "categorical",
+      "unique_count": 1408,
+      "representation": "sampled",
+      "examples": [
+        "6230 Magyarország, Soltvadkert, Szentháromság utca 100",
+        "2051 Magyarország, Biatorbágy Vendel Park, Erdőalja út 3.",
+        "6230 Magyarország, Soltvadkert Szentháromság utca 100",
+        "6230 Magyarország, Soltvadkert Szentháromság u. 100.",
+        "2051 Magyarország, Biatorbágy Erdőalja út 3.",
+        "2045 Magyarország, Törökbálint Depó Raktárvárosi út 1. 062/73",
+        "2363 Magyarország, Felsőpakony Raktárbázis . 06/26"
+      ],
+      "description": "Ügyfél (vagy más néven Vevő) címe"
+    },
+    {
+      "name": "id_paymentmethod",
+      "type": "numeric",
+      "min": 1001.0,
+      "max": 8001.0,
+      "description": "Ez kódokat tartalmaz, a payment_mode ugyanezt tartalmazza, csak ott szövegesen tárolva van a kód jelentése"
+    },
+    {
+      "name": "id_currency",
+      "type": "numeric",
+      "min": 1001.0,
+      "max": 2001.0,
+      "description": "Ez kódokat tartalmaz, a currency_name  ugyanezt tartalmazza, csak ott szövegesen tárolva van a kód jelentése"
+    },
+    {
+      "name": "Netto",
+      "type": "numeric",
+      "min": -9801220.0,
+      "max": 130170432.0,
+      "description": "Számla nettó összege"
+    },
+    {
+      "name": "Brutto",
+      "type": "numeric",
+      "min": -12447549.0,
+      "max": 165316449.0,
+      "description": "Számla bruttó összege"
+    },
+    {
+      "name": "VAT",
+      "type": "numeric",
+      "min": -2646329.0,
+      "max": 35146016.0,
+      "description": "ÁFA tartalma,  ennek a mezőnek meg kell egyezni a Bruttó - Nettó értékkel."
+    },
+    {
+      "name": "invoice_cat",
+      "type": "categorical",
+      "unique_count": 2,
+      "representation": "full",
+      "values": [
+        "Normál",
+        "Visszajár"
+      ],
+      "description": "Legtöbb esetben Normál értéket tartalmaz. Ha Visszajár értéket tartalmaz, akkor ezt a szálát vissza kell fizetni a Vevőnek."
+    },
+    {
+      "name": "due_in_date",
+      "type": "date",
+      "min": "2016-01-18",
+      "max": "2025-12-21",
+      "description": "Fizetési határidő"
+    },
+    {
+      "name": "fullfillment_date",
+      "type": "date",
+      "min": "2016-01-04",
+      "max": "2025-10-22",
+      "description": "Ez általában megegyezik a posting_date mező tartalmával, azaz a számla kiállításának dátumával."
+    },
+    {
+      "name": "n8_foreignexchangerate",
+      "type": "numeric",
+      "min": 0.0,
+      "max": 426.0,
+      "description": "Ha a currency_name mező nem Forint értéke tartalmaz, akkor a számla kiállítás pillanatában aktuális valuta váltási árfolyamtot tartalmazza."
+    },
+    {
+      "name": "c_exchangeratetext",
+      "type": "categorical",
+      "unique_count": 1134,
+      "representation": "sampled",
+      "examples": [
+        "MNB - 2025.08.06.",
+        "MNB - 2024.12.16.",
+        "MNB - 2025.03.26.",
+        "MNB - 2025.07.11.",
+        "MNB - 2016.06.13.",
+        "MNB - 2016.03.23.",
+        "MNB - 2016.07.19."
+      ],
+      "description": "Ha a currency_name mező nem Forint értéket tartalmaz, akkor a számla kiállítás pillanatában aktuális valuta váltási árfolyamot tartalmazza."
+    },
+    {
+      "name": "i_paymentperiod",
+      "type": "numeric",
+      "min": 0.0,
+      "max": 292.0,
+      "description": "Hány napos a számlán a fizetési határidő."
+    },
+    {
+      "name": "payment_id",
+      "type": "numeric",
+      "min": 1001.0,
+      "max": 8001.0,
+      "description": "Ennek tartalma megegyezik id_paymentmethod mező tartalmával."
+    },
+    {
+      "name": "payment_method_last_modificationa_date",
+      "type": "date",
+      "min": "2015-01-13",
+      "max": "2025-09-24",
+      "description": "Néha adatbázis szinten változnak az adatok, ez a mező az utolsó változtatás dátumát tartalmazza."
+    },
+    {
+      "name": "payment_mode",
+      "type": "categorical",
+      "unique_count": 4,
+      "representation": "full",
+      "values": [
+        "Előre utalás",
+        "Készpénz",
+        "Postai utánvét",
+        "Átutalás"
+      ],
+      "description": "Fizetési módot tartalmazza szövegesen."
+    },
+    {
+      "name": "customer_name",
+      "type": "categorical",
+      "unique_count": 1085,
+      "representation": "sampled",
+      "examples": [
+        "Central Tech 1 Corp",
+        "Central Tech 2 Zrt.",
+        "Danube Logis 3 Kft.",
+        "Vertex Solutions 4 Partners"],
+      "description": "Ügyfél (vagy más néven Vevő) neve, akinek a számla ki lett állítva."
+    },
+    {
+      "name": "id_salesinvoice",
+      "type": "numeric",
+      "min": 1001.0,
+      "max": 29642001.0,
+      "description": "Technikai mező, elemzésre nem használható"
+    },
+    {
+      "name": "clear_date",
+      "type": "date",
+      "min": "1900-10-19",
+      "max": "2025-10-22",
+      "description": "Mikor volt utoljára fizetés a számlával kapcsolatban. Ez többnyire azt jelenti, hogy mikor lett kifizetve a számla, de néha csak rész kifizetés van, ilyenkor az utolsó fizetés dátuma"
+    },
+    {
+      "name": "payment_comment",
+      "type": "categorical",
+      "unique_count": 102,
+      "representation": "sampled",
+      "examples": [
+        "RAIFF",
+        "OTP",
+        "BB",
+        "CIB",
+        "KH",
+        "MKB",
+        "IBAN"
+      ],
+      "description": "Utalásnál milyen megjegyzés volt."
+    },
+    {
+      "name": "last_payment_amount",
+      "type": "numeric",
+      "min": -12447549.0,
+      "max": 165316449.0,
+      "description": "Utolsó fizetésnél mekkora összeg volt utalva."
+    },
+    {
+      "name": "currency_id",
+      "type": "numeric",
+      "min": 1001.0,
+      "max": 2001.0,
+      "description": "Valuta azonosító"
+    },
+    {
+      "name": "currency_name",
+      "type": "categorical",
+      "unique_count": 2,
+      "representation": "full",
+      "values": [
+        "Euró",
+        "Forint"
+      ],
+      "description": "Valuta neve szövegesen"
+    },
+    {
+      "name": "total_open_amount",
+      "type": "numeric",
+      "min": -12447549.0,
+      "max": 165316449.0,
+      "description": "Összesen eddig mekkora összeg volt kifizetve a számlából."
+    },
+    {
+      "name": "company",
+      "type": "categorical",
+      "unique_count": 2,
+      "representation": "full",
+      "values": [
+        "invest",
+        "trade"
+      ],
+      "description": "Két cég számlái vannak az adatbázisban, és a mező azt tartalmazza, hogy az adott számla melyik cég állította ki. Elemzési szempontból NEM ügyfél, NEM vevő, és nem használható ügyfélszámolásra."
+    },
+    {
+      "name": "payment_flag",
+      "type": "numeric",
+      "min": 0.0,
+      "max": 1.0,
+      "description": "Azt mutatja, hogy ki van-e fizetve a számla. Ha 1-es, akkor ki van fizetve, 0 különben."
+    },
+    {
+      "name": "fizetendo",
+      "type": "numeric",
+      "min": -293116.0,
+      "max": 37710364.0,
+      "description": "Ha nincs kifizetve még, akkor mennyit kell még fizetni a számlából."
+    }
+  ]
+}

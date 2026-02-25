@@ -1,0 +1,85 @@
+{
+  "functions": [
+    {
+      "name": "kesedelmes_napok",
+      "description": "A számla fizetési határidejéhez képesti napeltérést számolja ki. Pozitív érték késedelmet, negatív érték korai fizetést jelent.",
+      "input": {
+        "due_in_date": "pd.Series – a számlák fizetési határideje (due date).",
+        "clear_date": "pd.Series – a számlák kiegyenlítésének dátuma. NaT esetén az aktuális nap kerül felhasználásra.",
+        "current_date": "pd.Timestamp | None – referencia dátum nem fizetett számlákhoz. Ha None, az aktuális nap kerül felhasználásra."
+      },
+      "output": {
+        "type": "pd.Series",
+        "unit": "nap",
+        "description": "Napokban mért eltérés a fizetési határidőhöz képest. Pozitív: késedelem, negatív: korai fizetés."
+      },
+      "logic": [
+        "Az eltérés a (clear_date – due_in_date) különbség napokban.",
+        "Ha clear_date hiányzik (NaT), az aktuális dátum kerül felhasználásra.",
+        "Ha az eltérés kisebb mint -180 nap (pl. 1900-as technikai dátum), az eredmény 0.",
+        "Egyéb esetben az eltérés negatív, nulla vagy pozitív is lehet."
+      ],
+      "example": {
+        "code": "df['nap_elteres'] = kesedelmes_napok(df['due_in_date'], df['clear_date'])",
+        "output": "pd.Series – napeltérés számlánként (pl. -5, 0, 12)"
+      }
+    },
+    {
+      "name": "fizetesi_hossz",
+      "description": "A számla fizetési határidejének hosszát számolja ki a kiállítás dátuma és a fizetési határidő között.",
+      "input": {
+        "posting_date": "pd.Series – a számla kiállításának dátuma.",
+        "due_in_date": "pd.Series – a számla fizetési határideje."
+      },
+      "output": {
+        "type": "pd.Series",
+        "unit": "nap",
+        "description": "A fizetési határidő hossza napokban (due_in_date – posting_date). Negatív érték esetén 0."
+      },
+      "logic": [
+        "A fizetési hossz a (due_in_date – posting_date) különbség napokban.",
+        "Mindkét dátum kötelezően kitöltött, nincs aktuális napra történő korrekció.",
+        "Ha az eredmény negatív (pl. hibás vagy technikai dátum), az érték 0-ra kerül."
+      ],
+      "example": {
+        "code": "df['fizetesi_hossz_nap'] = fizetesi_hossz(df['posting_date'], df['due_in_date'])",
+        "output": "pd.Series – fizetési határidő hossza napokban (pl. 8, 15, 30)"
+      }
+    },
+    {
+      "name": "elozo_kesedelmes_szamlak_szama",
+      "description": "Ügyfelenként meghatározza, hogy az aktuális számlát megelőző x darab számla közül hány volt legalább y nap késedelmes, és hogy összesen hány előző számla létezett.",
+      "input": {
+        "df": "pd.DataFrame – számlák adatai.",
+        "customer_id_col": "str – ügyfél azonosító oszlop neve (pl. customer_name).",
+        "order_date_col": "str – időrendi oszlop neve (pl. posting_date).",
+        "due_in_date_col": "str – fizetési határidő oszlop neve.",
+        "clear_date_col": "str – kiegyenlítés dátuma oszlop neve.",
+        "x": "int – vizsgált előző számlák maximális száma.",
+        "y": "int – késedelem küszöb napokban (y vagy több nap késedelem számít)."
+      },
+      "output": {
+        "type": "tuple[pd.Series, pd.Series]",
+        "order": ["elozo_kesedelmes_db", "elozo_szamlak_db"],
+        "description": {
+          "elozo_kesedelmes_db": "Az aktuális számlát megelőző x számlából hány volt legalább y nap késedelmes.",
+          "elozo_szamlak_db": "Az aktuális számlát megelőzően létező számlák száma (maximum x)."
+        }
+      },
+      "logic": [
+        "A számlák ügyfelenként időrendbe rendezésre kerülnek.",
+        "A késedelem a kesedelmes_napok függvénnyel kerül kiszámításra.",
+        "Az aktuális számla nem része a vizsgálatnak (shift).",
+        "Az előző x számlára rolling ablak kerül alkalmazásra.",
+        "Az első számla esetén mindkét visszatérő érték 0."
+      ],
+      "example": {
+        "code": "df['elozo_kesedelmes_db'], df['elozo_szamlak_db'] = elozo_kesedelmes_szamlak_szama(df, 'customer_name', 'posting_date', 'due_in_date', 'clear_date', x=3, y=15)",
+        "output": {
+          "elozo_kesedelmes_db": [0, 1, 2],
+          "elozo_szamlak_db": [0, 1, 2]
+        }
+      }
+    }
+  ]
+}
