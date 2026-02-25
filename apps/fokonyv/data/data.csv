@@ -1,1 +1,589 @@
-
+Hónap;Mérleghely;Főkönyv3;Főkönyviszám;Főkönyvi_tétel;Érték
+Január;M1;Anyagköltség;5119;Egyéb anyag;164080.9
+Január;M1;Anyagköltség;5131;Alkatrészek;0.0
+Január;M1;Anyagköltség;5135;Villamos energia;0.0
+Január;M1;Anyagköltség;5137;Irodaszer, nyomtatvány;64071.0
+Január;M2;Igénybe vett szolgáltatások költségei;5211;Postaköltség;0.0
+Január;M2;Igénybe vett szolgáltatások költségei;5212;Telefonköltség;8882.0
+Január;M2;Igénybe vett szolgáltatások költségei;5213;Szakkönyvek, újságok, napilapok;0.0
+Január;M2;Igénybe vett szolgáltatások költségei;5214;Internetktg.;11180.0
+Január;M2;Igénybe vett szolgáltatások költségei;5221;Bérleti díjak - Ingatlan;0.0
+Január;M2;Igénybe vett szolgáltatások költségei;5223;Bérleti díjak - Eszköz;487862.49
+Január;M2;Igénybe vett szolgáltatások költségei;5233;Karbantartási költségek - Eszköz;120000.0
+Január;M2;Igénybe vett szolgáltatások költségei;5241;Hirdetés, reklám, propaganda költségek;67549.9
+Január;M2;Igénybe vett szolgáltatások költségei;5251;Oktatás, továbbképzés költségei;104884.0
+Január;M2;Igénybe vett szolgáltatások költségei;5261;Utazási és kiküldetési költségek;24180.0
+Január;M2;Igénybe vett szolgáltatások költségei;5262;Parkolási díj ;5687.0
+Január;M2;Igénybe vett szolgáltatások költségei;5291;Vagyonvédelmi költség;0.0
+Január;M2;Igénybe vett szolgáltatások költségei;5292;Tisztítás, takarítás költsége;0.0
+Január;M2;Igénybe vett szolgáltatások költségei;5293;Nyomtatás, fénymásolás költsége;0.0
+Január;M2;Igénybe vett szolgáltatások költségei;5294;Kamarai hozzájárulás;0.0
+Január;M2;Igénybe vett szolgáltatások költségei;5299;Egyéb igénybe vett szolgáltatások;561633.0
+Január;M3;Egyéb szolgáltatások költségei;5311;Illetékek;0.0
+Január;M3;Egyéb szolgáltatások költségei;5321;Pénzügyi, befektetési díjak (bankköltség);122040.01
+Január;M3;Egyéb szolgáltatások költségei;5334;Életbiztosítás;62366.0
+Január;M3;Egyéb szolgáltatások költségei;5335;Kisvállalkozói Vagyon- és Felelõsségbiztosítás;83345.0
+Január;M3;Egyéb szolgáltatások költségei;5336;Vagyonbiztosítás (Tûz- és Elemikár - Vodafone);0.0
+Január;M3;Egyéb szolgáltatások költségei;535;Tagsági díjak;5990.0
+Január;M3;Egyéb szolgáltatások költségei;5351;Tagsági díjak - MINKE;14940.0
+Január;M3;Egyéb szolgáltatások költségei;5352;Tagsági díjak - PentaPRO tagság;2319.0
+Január;M4;Bérköltség;541;Bérköltség;3898359.0
+Január;M5;Személyi jellegû egyéb kifizetések;551;Személyi jellegû egyéb kifizetések dolgozóknak;72500.0
+Január;M5;Személyi jellegû egyéb kifizetések;552;Jóléti és kulturális költségek;162178.0
+Január;M5;Személyi jellegû egyéb kifizetések;554;Egyéb személyi jellegû kifizetés dolgozónak (védõszemüveg);0.0
+Január;M5;Személyi jellegû egyéb kifizetések;5571;Természetbeni juttatások;60000.0
+Január;M5;Személyi jellegû egyéb kifizetések;5572;Természetbeni jutt. után fizetendõ Szoc. hj.;0.0
+Január;M5;Személyi jellegû egyéb kifizetések;5573;Természetbeni jutt. után fizetendõ SZJA;0.0
+Január;M5;Személyi jellegû egyéb kifizetések;5581;Távmunka költségtérítés;21149.0
+Január;M7;Értékcsökkenési leírás;571;Terv szerinti értékcsökkenési leírás  (ÉCS.);0.0
+Január;MA;Anyagjellegû ráfordítások;8141;Eladott áruk beszerzési értéke (ELÁBÉ);0.0
+Január;MA;Anyagjellegû ráfordítások;8151;Eladott szolgáltatások értéke (közvetítés);1070.0
+Január;MD;Egyéb ráfordítások;8601;Bírságok, kötbérek, késedelmi kamatok, kártérítése;0.0
+Január;MD;Egyéb ráfordítások;8602;KIVA alapot növelõ bírság, kötbér, késedelmi kamat;0.0
+Január;MD;Egyéb ráfordítások;8634;Költségek ellentételezésére adott támogatás;20000.0
+Január;MD;Egyéb ráfordítások;8695;Nem a vállalkozással kapcsolatos költségek;0.0
+Január;ME;Pénzügyi mûveletek ráfordításai;8721;Fizetendõ kamatok és kamatjellegü ráfordítások;34343.73
+Január;ME;Pénzügyi mûveletek ráfordításai;876;Átváltáskori, értékeléskori árfolyamveszteség;110625.34
+Január;ME;Pénzügyi mûveletek ráfordításai;879;Egyéb pénzügyi ráfordítások;2.0
+Január;MG;Belföldi értékesítés nettó árbevétele;9111;Belföldi értékesítés árbevétele;-2560155.6
+Január;MJ;Pénzügyi mûveletek bevételei;976;Átváltáskori, értékeléskori árfolyamnyereség;-11170.24
+Január;MJ;Pénzügyi mûveletek bevételei;979;Egyéb pénzügyi bevételek;-1.58
+Február;M1;Anyagköltség;5119;Egyéb anyag;0.0
+Február;M1;Anyagköltség;5131;Alkatrészek;4961.0
+Február;M1;Anyagköltség;5135;Villamos energia;0.0
+Február;M1;Anyagköltség;5137;Irodaszer, nyomtatvány;33403.0
+Február;M2;Igénybe vett szolgáltatások költségei;5211;Postaköltség;0.0
+Február;M2;Igénybe vett szolgáltatások költségei;5212;Telefonköltség;48339.0
+Február;M2;Igénybe vett szolgáltatások költségei;5213;Szakkönyvek, újságok, napilapok;23600.0
+Február;M2;Igénybe vett szolgáltatások költségei;5214;Internetktg.;121113.0
+Február;M2;Igénybe vett szolgáltatások költségei;5221;Bérleti díjak - Ingatlan;0.0
+Február;M2;Igénybe vett szolgáltatások költségei;5223;Bérleti díjak - Eszköz;7500.0
+Február;M2;Igénybe vett szolgáltatások költségei;5233;Karbantartási költségek - Eszköz;120000.0
+Február;M2;Igénybe vett szolgáltatások költségei;5241;Hirdetés, reklám, propaganda költségek;69676.72
+Február;M2;Igénybe vett szolgáltatások költségei;5251;Oktatás, továbbképzés költségei;206430.0
+Február;M2;Igénybe vett szolgáltatások költségei;5261;Utazási és kiküldetési költségek;27360.0
+Február;M2;Igénybe vett szolgáltatások költségei;5262;Parkolási díj ;10229.0
+Február;M2;Igénybe vett szolgáltatások költségei;5291;Vagyonvédelmi költség;0.0
+Február;M2;Igénybe vett szolgáltatások költségei;5292;Tisztítás, takarítás költsége;90000.0
+Február;M2;Igénybe vett szolgáltatások költségei;5293;Nyomtatás, fénymásolás költsége;11370.1
+Február;M2;Igénybe vett szolgáltatások költségei;5294;Kamarai hozzájárulás;0.0
+Február;M2;Igénybe vett szolgáltatások költségei;5299;Egyéb igénybe vett szolgáltatások;249224.0
+Február;M3;Egyéb szolgáltatások költségei;5311;Illetékek;0.0
+Február;M3;Egyéb szolgáltatások költségei;5321;Pénzügyi, befektetési díjak (bankköltség);100790.55
+Február;M3;Egyéb szolgáltatások költségei;5334;Életbiztosítás;0.0
+Február;M3;Egyéb szolgáltatások költségei;5335;Kisvállalkozói Vagyon- és Felelõsségbiztosítás;0.0
+Február;M3;Egyéb szolgáltatások költségei;5336;Vagyonbiztosítás (Tûz- és Elemikár - Vodafone);2400.0
+Február;M3;Egyéb szolgáltatások költségei;535;Tagsági díjak;5990.0
+Február;M3;Egyéb szolgáltatások költségei;5351;Tagsági díjak - MINKE;0.0
+Február;M3;Egyéb szolgáltatások költségei;5352;Tagsági díjak - PentaPRO tagság;0.0
+Február;M4;Bérköltség;541;Bérköltség;4147933.0
+Február;M5;Személyi jellegû egyéb kifizetések;551;Személyi jellegû egyéb kifizetések dolgozóknak;87000.0
+Február;M5;Személyi jellegû egyéb kifizetések;552;Jóléti és kulturális költségek;121300.0
+Február;M5;Személyi jellegû egyéb kifizetések;554;Egyéb személyi jellegû kifizetés dolgozónak (védõszemüveg);0.0
+Február;M5;Személyi jellegû egyéb kifizetések;5571;Természetbeni juttatások;10000.0
+Február;M5;Személyi jellegû egyéb kifizetések;5572;Természetbeni jutt. után fizetendõ Szoc. hj.;0.0
+Február;M5;Személyi jellegû egyéb kifizetések;5573;Természetbeni jutt. után fizetendõ SZJA;0.0
+Február;M5;Személyi jellegû egyéb kifizetések;5581;Távmunka költségtérítés;17448.0
+Február;M7;Értékcsökkenési leírás;571;Terv szerinti értékcsökkenési leírás  (ÉCS.);0.0
+Február;MA;Anyagjellegû ráfordítások;8141;Eladott áruk beszerzési értéke (ELÁBÉ);0.0
+Február;MA;Anyagjellegû ráfordítások;8151;Eladott szolgáltatások értéke (közvetítés);0.0
+Február;MD;Egyéb ráfordítások;8601;Bírságok, kötbérek, késedelmi kamatok, kártérítése;0.0
+Február;MD;Egyéb ráfordítások;8602;KIVA alapot növelõ bírság, kötbér, késedelmi kamat;0.0
+Február;MD;Egyéb ráfordítások;8634;Költségek ellentételezésére adott támogatás;0.0
+Február;MD;Egyéb ráfordítások;8695;Nem a vállalkozással kapcsolatos költségek;0.0
+Február;ME;Pénzügyi mûveletek ráfordításai;8721;Fizetendõ kamatok és kamatjellegü ráfordítások;0.0
+Február;ME;Pénzügyi mûveletek ráfordításai;876;Átváltáskori, értékeléskori árfolyamveszteség;22585.13
+Február;ME;Pénzügyi mûveletek ráfordításai;879;Egyéb pénzügyi ráfordítások;0.54
+Február;MG;Belföldi értékesítés nettó árbevétele;9111;Belföldi értékesítés árbevétele;-4437929.2
+Február;MJ;Pénzügyi mûveletek bevételei;976;Átváltáskori, értékeléskori árfolyamnyereség;-3786.82
+Február;MJ;Pénzügyi mûveletek bevételei;979;Egyéb pénzügyi bevételek;-0.42
+Március;M1;Anyagköltség;5119;Egyéb anyag;79354.33
+Március;M1;Anyagköltség;5131;Alkatrészek;0.0
+Március;M1;Anyagköltség;5135;Villamos energia;0.0
+Március;M1;Anyagköltség;5137;Irodaszer, nyomtatvány;63283.0
+Március;M2;Igénybe vett szolgáltatások költségei;5211;Postaköltség;0.0
+Március;M2;Igénybe vett szolgáltatások költségei;5212;Telefonköltség;62712.0
+Március;M2;Igénybe vett szolgáltatások költségei;5213;Szakkönyvek, újságok, napilapok;0.0
+Március;M2;Igénybe vett szolgáltatások költségei;5214;Internetktg.;124447.0
+Március;M2;Igénybe vett szolgáltatások költségei;5221;Bérleti díjak - Ingatlan;0.0
+Március;M2;Igénybe vett szolgáltatások költségei;5223;Bérleti díjak - Eszköz;18699.9
+Március;M2;Igénybe vett szolgáltatások költségei;5233;Karbantartási költségek - Eszköz;120000.0
+Március;M2;Igénybe vett szolgáltatások költségei;5241;Hirdetés, reklám, propaganda költségek;74118.4
+Március;M2;Igénybe vett szolgáltatások költségei;5251;Oktatás, továbbképzés költségei;74420.0
+Március;M2;Igénybe vett szolgáltatások költségei;5261;Utazási és kiküldetési költségek;37034.0
+Március;M2;Igénybe vett szolgáltatások költségei;5262;Parkolási díj ;0.0
+Március;M2;Igénybe vett szolgáltatások költségei;5291;Vagyonvédelmi költség;0.0
+Március;M2;Igénybe vett szolgáltatások költségei;5292;Tisztítás, takarítás költsége;90000.0
+Március;M2;Igénybe vett szolgáltatások költségei;5293;Nyomtatás, fénymásolás költsége;0.0
+Március;M2;Igénybe vett szolgáltatások költségei;5294;Kamarai hozzájárulás;0.0
+Március;M2;Igénybe vett szolgáltatások költségei;5299;Egyéb igénybe vett szolgáltatások;552262.0
+Március;M3;Egyéb szolgáltatások költségei;5311;Illetékek;0.0
+Március;M3;Egyéb szolgáltatások költségei;5321;Pénzügyi, befektetési díjak (bankköltség);79894.62
+Március;M3;Egyéb szolgáltatások költségei;5334;Életbiztosítás;0.0
+Március;M3;Egyéb szolgáltatások költségei;5335;Kisvállalkozói Vagyon- és Felelõsségbiztosítás;39760.0
+Március;M3;Egyéb szolgáltatások költségei;5336;Vagyonbiztosítás (Tûz- és Elemikár - Vodafone);2400.0
+Március;M3;Egyéb szolgáltatások költségei;535;Tagsági díjak;5990.0
+Március;M3;Egyéb szolgáltatások költségei;5351;Tagsági díjak - MINKE;0.0
+Március;M3;Egyéb szolgáltatások költségei;5352;Tagsági díjak - PentaPRO tagság;0.0
+Március;M4;Bérköltség;541;Bérköltség;4419485.0
+Március;M5;Személyi jellegû egyéb kifizetések;551;Személyi jellegû egyéb kifizetések dolgozóknak;94900.0
+Március;M5;Személyi jellegû egyéb kifizetések;552;Jóléti és kulturális költségek;30380.0
+Március;M5;Személyi jellegû egyéb kifizetések;554;Egyéb személyi jellegû kifizetés dolgozónak (védõszemüveg);0.0
+Március;M5;Személyi jellegû egyéb kifizetések;5571;Természetbeni juttatások;0.0
+Március;M5;Személyi jellegû egyéb kifizetések;5572;Természetbeni jutt. után fizetendõ Szoc. hj.;0.0
+Március;M5;Személyi jellegû egyéb kifizetések;5573;Természetbeni jutt. után fizetendõ SZJA;18307.0
+Március;M5;Személyi jellegû egyéb kifizetések;5581;Távmunka költségtérítés;29081.0
+Március;M7;Értékcsökkenési leírás;571;Terv szerinti értékcsökkenési leírás  (ÉCS.);0.0
+Március;MA;Anyagjellegû ráfordítások;8141;Eladott áruk beszerzési értéke (ELÁBÉ);0.0
+Március;MA;Anyagjellegû ráfordítások;8151;Eladott szolgáltatások értéke (közvetítés);0.0
+Március;MD;Egyéb ráfordítások;8601;Bírságok, kötbérek, késedelmi kamatok, kártérítése;854.0
+Március;MD;Egyéb ráfordítások;8602;KIVA alapot növelõ bírság, kötbér, késedelmi kamat;29746.0
+Március;MD;Egyéb ráfordítások;8634;Költségek ellentételezésére adott támogatás;0.0
+Március;MD;Egyéb ráfordítások;8695;Nem a vállalkozással kapcsolatos költségek;0.0
+Március;ME;Pénzügyi mûveletek ráfordításai;8721;Fizetendõ kamatok és kamatjellegü ráfordítások;0.0
+Március;ME;Pénzügyi mûveletek ráfordításai;876;Átváltáskori, értékeléskori árfolyamveszteség;54304.9
+Március;ME;Pénzügyi mûveletek ráfordításai;879;Egyéb pénzügyi ráfordítások;0.0
+Március;MG;Belföldi értékesítés nettó árbevétele;9111;Belföldi értékesítés árbevétele;-8785600.56
+Március;MJ;Pénzügyi mûveletek bevételei;976;Átváltáskori, értékeléskori árfolyamnyereség;0.0
+Március;MJ;Pénzügyi mûveletek bevételei;979;Egyéb pénzügyi bevételek;-0.41
+Április;M1;Anyagköltség;5119;Egyéb anyag;15335.31
+Április;M1;Anyagköltség;5131;Alkatrészek;0.0
+Április;M1;Anyagköltség;5135;Villamos energia;0.0
+Április;M1;Anyagköltség;5137;Irodaszer, nyomtatvány;0.0
+Április;M2;Igénybe vett szolgáltatások költségei;5211;Postaköltség;0.0
+Április;M2;Igénybe vett szolgáltatások költségei;5212;Telefonköltség;47003.0
+Április;M2;Igénybe vett szolgáltatások költségei;5213;Szakkönyvek, újságok, napilapok;0.0
+Április;M2;Igénybe vett szolgáltatások költségei;5214;Internetktg.;117705.0
+Április;M2;Igénybe vett szolgáltatások költségei;5221;Bérleti díjak - Ingatlan;0.0
+Április;M2;Igénybe vett szolgáltatások költségei;5223;Bérleti díjak - Eszköz;108000.0
+Április;M2;Igénybe vett szolgáltatások költségei;5233;Karbantartási költségek - Eszköz;120000.0
+Április;M2;Igénybe vett szolgáltatások költségei;5241;Hirdetés, reklám, propaganda költségek;85210.87
+Április;M2;Igénybe vett szolgáltatások költségei;5251;Oktatás, továbbképzés költségei;72350.0
+Április;M2;Igénybe vett szolgáltatások költségei;5261;Utazási és kiküldetési költségek;24540.0
+Április;M2;Igénybe vett szolgáltatások költségei;5262;Parkolási díj ;9514.0
+Április;M2;Igénybe vett szolgáltatások költségei;5291;Vagyonvédelmi költség;0.0
+Április;M2;Igénybe vett szolgáltatások költségei;5292;Tisztítás, takarítás költsége;90000.0
+Április;M2;Igénybe vett szolgáltatások költségei;5293;Nyomtatás, fénymásolás költsége;9671.8
+Április;M2;Igénybe vett szolgáltatások költségei;5294;Kamarai hozzájárulás;5000.0
+Április;M2;Igénybe vett szolgáltatások költségei;5299;Egyéb igénybe vett szolgáltatások;150095.0
+Április;M3;Egyéb szolgáltatások költségei;5311;Illetékek;0.0
+Április;M3;Egyéb szolgáltatások költségei;5321;Pénzügyi, befektetési díjak (bankköltség);103449.09
+Április;M3;Egyéb szolgáltatások költségei;5334;Életbiztosítás;62366.0
+Április;M3;Egyéb szolgáltatások költségei;5335;Kisvállalkozói Vagyon- és Felelõsségbiztosítás;0.0
+Április;M3;Egyéb szolgáltatások költségei;5336;Vagyonbiztosítás (Tûz- és Elemikár - Vodafone);2400.0
+Április;M3;Egyéb szolgáltatások költségei;535;Tagsági díjak;5990.0
+Április;M3;Egyéb szolgáltatások költségei;5351;Tagsági díjak - MINKE;29880.0
+Április;M3;Egyéb szolgáltatások költségei;5352;Tagsági díjak - PentaPRO tagság;0.0
+Április;M4;Bérköltség;541;Bérköltség;4413450.0
+Április;M5;Személyi jellegû egyéb kifizetések;551;Személyi jellegû egyéb kifizetések dolgozóknak;187530.0
+Április;M5;Személyi jellegû egyéb kifizetések;552;Jóléti és kulturális költségek;282135.87
+Április;M5;Személyi jellegû egyéb kifizetések;554;Egyéb személyi jellegû kifizetés dolgozónak (védõszemüveg);0.0
+Április;M5;Személyi jellegû egyéb kifizetések;5571;Természetbeni juttatások;25615.0
+Április;M5;Személyi jellegû egyéb kifizetések;5572;Természetbeni jutt. után fizetendõ Szoc. hj.;0.0
+Április;M5;Személyi jellegû egyéb kifizetések;5573;Természetbeni jutt. után fizetendõ SZJA;0.0
+Április;M5;Személyi jellegû egyéb kifizetések;5581;Távmunka költségtérítés;7270.0
+Április;M7;Értékcsökkenési leírás;571;Terv szerinti értékcsökkenési leírás  (ÉCS.);0.0
+Április;MA;Anyagjellegû ráfordítások;8141;Eladott áruk beszerzési értéke (ELÁBÉ);0.0
+Április;MA;Anyagjellegû ráfordítások;8151;Eladott szolgáltatások értéke (közvetítés);1190.0
+Április;MD;Egyéb ráfordítások;8601;Bírságok, kötbérek, késedelmi kamatok, kártérítése;86.0
+Április;MD;Egyéb ráfordítások;8602;KIVA alapot növelõ bírság, kötbér, késedelmi kamat;9904.0
+Április;MD;Egyéb ráfordítások;8634;Költségek ellentételezésére adott támogatás;0.0
+Április;MD;Egyéb ráfordítások;8695;Nem a vállalkozással kapcsolatos költségek;0.0
+Április;ME;Pénzügyi mûveletek ráfordításai;8721;Fizetendõ kamatok és kamatjellegü ráfordítások;97504.49
+Április;ME;Pénzügyi mûveletek ráfordításai;876;Átváltáskori, értékeléskori árfolyamveszteség;47992.49
+Április;ME;Pénzügyi mûveletek ráfordításai;879;Egyéb pénzügyi ráfordítások;0.0
+Április;MG;Belföldi értékesítés nettó árbevétele;9111;Belföldi értékesítés árbevétele;-5262224.75
+Április;MJ;Pénzügyi mûveletek bevételei;976;Átváltáskori, értékeléskori árfolyamnyereség;-29059.23
+Április;MJ;Pénzügyi mûveletek bevételei;979;Egyéb pénzügyi bevételek;-1.0
+Május;M1;Anyagköltség;5119;Egyéb anyag;6200.0
+Május;M1;Anyagköltség;5131;Alkatrészek;0.0
+Május;M1;Anyagköltség;5135;Villamos energia;0.0
+Május;M1;Anyagköltség;5137;Irodaszer, nyomtatvány;38807.0
+Május;M2;Igénybe vett szolgáltatások költségei;5211;Postaköltség;0.0
+Május;M2;Igénybe vett szolgáltatások költségei;5212;Telefonköltség;45835.0
+Május;M2;Igénybe vett szolgáltatások költségei;5213;Szakkönyvek, újságok, napilapok;0.0
+Május;M2;Igénybe vett szolgáltatások költségei;5214;Internetktg.;117705.0
+Május;M2;Igénybe vett szolgáltatások költségei;5221;Bérleti díjak - Ingatlan;0.0
+Május;M2;Igénybe vett szolgáltatások költségei;5223;Bérleti díjak - Eszköz;7500.0
+Május;M2;Igénybe vett szolgáltatások költségei;5233;Karbantartási költségek - Eszköz;120000.0
+Május;M2;Igénybe vett szolgáltatások költségei;5241;Hirdetés, reklám, propaganda költségek;85092.93
+Május;M2;Igénybe vett szolgáltatások költségei;5251;Oktatás, továbbképzés költségei;40900.0
+Május;M2;Igénybe vett szolgáltatások költségei;5261;Utazási és kiküldetési költségek;39073.0
+Május;M2;Igénybe vett szolgáltatások költségei;5262;Parkolási díj ;17212.0
+Május;M2;Igénybe vett szolgáltatások költségei;5291;Vagyonvédelmi költség;0.0
+Május;M2;Igénybe vett szolgáltatások költségei;5292;Tisztítás, takarítás költsége;90000.0
+Május;M2;Igénybe vett szolgáltatások költségei;5293;Nyomtatás, fénymásolás költsége;11122.2
+Május;M2;Igénybe vett szolgáltatások költségei;5294;Kamarai hozzájárulás;0.0
+Május;M2;Igénybe vett szolgáltatások költségei;5299;Egyéb igénybe vett szolgáltatások;281299.2
+Május;M3;Egyéb szolgáltatások költségei;5311;Illetékek;4200.0
+Május;M3;Egyéb szolgáltatások költségei;5321;Pénzügyi, befektetési díjak (bankköltség);91168.13
+Május;M3;Egyéb szolgáltatások költségei;5334;Életbiztosítás;0.0
+Május;M3;Egyéb szolgáltatások költségei;5335;Kisvállalkozói Vagyon- és Felelõsségbiztosítás;0.0
+Május;M3;Egyéb szolgáltatások költségei;5336;Vagyonbiztosítás (Tûz- és Elemikár - Vodafone);2400.0
+Május;M3;Egyéb szolgáltatások költségei;535;Tagsági díjak;0.0
+Május;M3;Egyéb szolgáltatások költségei;5351;Tagsági díjak - MINKE;0.0
+Május;M3;Egyéb szolgáltatások költségei;5352;Tagsági díjak - PentaPRO tagság;5990.0
+Május;M4;Bérköltség;541;Bérköltség;4413450.0
+Május;M5;Személyi jellegû egyéb kifizetések;551;Személyi jellegû egyéb kifizetések dolgozóknak;87000.0
+Május;M5;Személyi jellegû egyéb kifizetések;552;Jóléti és kulturális költségek;167402.0
+Május;M5;Személyi jellegû egyéb kifizetések;554;Egyéb személyi jellegû kifizetés dolgozónak (védõszemüveg);0.0
+Május;M5;Személyi jellegû egyéb kifizetések;5571;Természetbeni juttatások;366450.0
+Május;M5;Személyi jellegû egyéb kifizetések;5572;Természetbeni jutt. után fizetendõ Szoc. hj.;0.0
+Május;M5;Személyi jellegû egyéb kifizetések;5573;Természetbeni jutt. után fizetendõ SZJA;0.0
+Május;M5;Személyi jellegû egyéb kifizetések;5581;Távmunka költségtérítés;4154.0
+Május;M7;Értékcsökkenési leírás;571;Terv szerinti értékcsökkenési leírás  (ÉCS.);0.0
+Május;MA;Anyagjellegû ráfordítások;8141;Eladott áruk beszerzési értéke (ELÁBÉ);0.0
+Május;MA;Anyagjellegû ráfordítások;8151;Eladott szolgáltatások értéke (közvetítés);4845.0
+Május;MD;Egyéb ráfordítások;8601;Bírságok, kötbérek, késedelmi kamatok, kártérítése;61.0
+Május;MD;Egyéb ráfordítások;8602;KIVA alapot növelõ bírság, kötbér, késedelmi kamat;10421.0
+Május;MD;Egyéb ráfordítások;8634;Költségek ellentételezésére adott támogatás;0.0
+Május;MD;Egyéb ráfordítások;8695;Nem a vállalkozással kapcsolatos költségek;0.0
+Május;ME;Pénzügyi mûveletek ráfordításai;8721;Fizetendõ kamatok és kamatjellegü ráfordítások;0.0
+Május;ME;Pénzügyi mûveletek ráfordításai;876;Átváltáskori, értékeléskori árfolyamveszteség;69928.8
+Május;ME;Pénzügyi mûveletek ráfordításai;879;Egyéb pénzügyi ráfordítások;0.11
+Május;MG;Belföldi értékesítés nettó árbevétele;9111;Belföldi értékesítés árbevétele;-5959444.4
+Május;MJ;Pénzügyi mûveletek bevételei;976;Átváltáskori, értékeléskori árfolyamnyereség;-4622.3
+Május;MJ;Pénzügyi mûveletek bevételei;979;Egyéb pénzügyi bevételek;0.0
+Június;M1;Anyagköltség;5119;Egyéb anyag;0.0
+Június;M1;Anyagköltség;5131;Alkatrészek;0.0
+Június;M1;Anyagköltség;5135;Villamos energia;104834.0
+Június;M1;Anyagköltség;5137;Irodaszer, nyomtatvány;72471.0
+Június;M2;Igénybe vett szolgáltatások költségei;5211;Postaköltség;1070.0
+Június;M2;Igénybe vett szolgáltatások költségei;5212;Telefonköltség;47707.0
+Június;M2;Igénybe vett szolgáltatások költségei;5213;Szakkönyvek, újságok, napilapok;0.0
+Június;M2;Igénybe vett szolgáltatások költségei;5214;Internetktg.;123800.0
+Június;M2;Igénybe vett szolgáltatások költségei;5221;Bérleti díjak - Ingatlan;0.0
+Június;M2;Igénybe vett szolgáltatások költségei;5223;Bérleti díjak - Eszköz;7500.0
+Június;M2;Igénybe vett szolgáltatások költségei;5233;Karbantartási költségek - Eszköz;120000.0
+Június;M2;Igénybe vett szolgáltatások költségei;5241;Hirdetés, reklám, propaganda költségek;414092.58
+Június;M2;Igénybe vett szolgáltatások költségei;5251;Oktatás, továbbképzés költségei;41440.0
+Június;M2;Igénybe vett szolgáltatások költségei;5261;Utazási és kiküldetési költségek;23910.0
+Június;M2;Igénybe vett szolgáltatások költségei;5262;Parkolási díj ;16043.0
+Június;M2;Igénybe vett szolgáltatások költségei;5291;Vagyonvédelmi költség;0.0
+Június;M2;Igénybe vett szolgáltatások költségei;5292;Tisztítás, takarítás költsége;90000.0
+Június;M2;Igénybe vett szolgáltatások költségei;5293;Nyomtatás, fénymásolás költsége;13027.7
+Június;M2;Igénybe vett szolgáltatások költségei;5294;Kamarai hozzájárulás;0.0
+Június;M2;Igénybe vett szolgáltatások költségei;5299;Egyéb igénybe vett szolgáltatások;172500.0
+Június;M3;Egyéb szolgáltatások költségei;5311;Illetékek;10350.0
+Június;M3;Egyéb szolgáltatások költségei;5321;Pénzügyi, befektetési díjak (bankköltség);129713.79
+Június;M3;Egyéb szolgáltatások költségei;5334;Életbiztosítás;0.0
+Június;M3;Egyéb szolgáltatások költségei;5335;Kisvállalkozói Vagyon- és Felelõsségbiztosítás;2400.0
+Június;M3;Egyéb szolgáltatások költségei;5336;Vagyonbiztosítás (Tûz- és Elemikár - Vodafone);0.0
+Június;M3;Egyéb szolgáltatások költségei;535;Tagsági díjak;0.0
+Június;M3;Egyéb szolgáltatások költségei;5351;Tagsági díjak - MINKE;0.0
+Június;M3;Egyéb szolgáltatások költségei;5352;Tagsági díjak - PentaPRO tagság;5990.0
+Június;M4;Bérköltség;541;Bérköltség;4413450.0
+Június;M5;Személyi jellegû egyéb kifizetések;551;Személyi jellegû egyéb kifizetések dolgozóknak;87000.0
+Június;M5;Személyi jellegû egyéb kifizetések;552;Jóléti és kulturális költségek;170580.0
+Június;M5;Személyi jellegû egyéb kifizetések;554;Egyéb személyi jellegû kifizetés dolgozónak (védõszemüveg);0.0
+Június;M5;Személyi jellegû egyéb kifizetések;5571;Természetbeni juttatások;626883.0
+Június;M5;Személyi jellegû egyéb kifizetések;5572;Természetbeni jutt. után fizetendõ Szoc. hj.;191114.0
+Június;M5;Személyi jellegû egyéb kifizetések;5573;Természetbeni jutt. után fizetendõ SZJA;0.0
+Június;M5;Személyi jellegû egyéb kifizetések;5581;Távmunka költségtérítés;8724.0
+Június;M7;Értékcsökkenési leírás;571;Terv szerinti értékcsökkenési leírás  (ÉCS.);184145.0
+Június;MA;Anyagjellegû ráfordítások;8141;Eladott áruk beszerzési értéke (ELÁBÉ);0.0
+Június;MA;Anyagjellegû ráfordítások;8151;Eladott szolgáltatások értéke (közvetítés);1070.0
+Június;MD;Egyéb ráfordítások;8601;Bírságok, kötbérek, késedelmi kamatok, kártérítése;9.0
+Június;MD;Egyéb ráfordítások;8602;KIVA alapot növelõ bírság, kötbér, késedelmi kamat;10440.0
+Június;MD;Egyéb ráfordítások;8634;Költségek ellentételezésére adott támogatás;0.0
+Június;MD;Egyéb ráfordítások;8695;Nem a vállalkozással kapcsolatos költségek;0.0
+Június;ME;Pénzügyi mûveletek ráfordításai;8721;Fizetendõ kamatok és kamatjellegü ráfordítások;0.0
+Június;ME;Pénzügyi mûveletek ráfordításai;876;Átváltáskori, értékeléskori árfolyamveszteség;73938.99
+Június;ME;Pénzügyi mûveletek ráfordításai;879;Egyéb pénzügyi ráfordítások;0.14
+Június;MG;Belföldi értékesítés nettó árbevétele;9111;Belföldi értékesítés árbevétele;-14568332.34
+Június;MJ;Pénzügyi mûveletek bevételei;976;Átváltáskori, értékeléskori árfolyamnyereség;-8213.1
+Június;MJ;Pénzügyi mûveletek bevételei;979;Egyéb pénzügyi bevételek;-0.38
+Július;M1;Anyagköltség;5119;Egyéb anyag;0.0
+Július;M1;Anyagköltség;5131;Alkatrészek;0.0
+Július;M1;Anyagköltség;5135;Villamos energia;0.0
+Július;M1;Anyagköltség;5137;Irodaszer, nyomtatvány;37227.0
+Július;M2;Igénybe vett szolgáltatások költségei;5211;Postaköltség;0.0
+Július;M2;Igénybe vett szolgáltatások költségei;5212;Telefonköltség;54306.0
+Július;M2;Igénybe vett szolgáltatások költségei;5213;Szakkönyvek, újságok, napilapok;0.0
+Július;M2;Igénybe vett szolgáltatások költségei;5214;Internetktg.;118832.0
+Július;M2;Igénybe vett szolgáltatások költségei;5221;Bérleti díjak - Ingatlan;0.0
+Július;M2;Igénybe vett szolgáltatások költségei;5223;Bérleti díjak - Eszköz;108000.0
+Július;M2;Igénybe vett szolgáltatások költségei;5233;Karbantartási költségek - Eszköz;120000.0
+Július;M2;Igénybe vett szolgáltatások költségei;5241;Hirdetés, reklám, propaganda költségek;284199.99
+Július;M2;Igénybe vett szolgáltatások költségei;5251;Oktatás, továbbképzés költségei;0.0
+Július;M2;Igénybe vett szolgáltatások költségei;5261;Utazási és kiküldetési költségek;286687.09
+Július;M2;Igénybe vett szolgáltatások költségei;5262;Parkolási díj ;0.0
+Július;M2;Igénybe vett szolgáltatások költségei;5291;Vagyonvédelmi költség;0.0
+Július;M2;Igénybe vett szolgáltatások költségei;5292;Tisztítás, takarítás költsége;198000.0
+Július;M2;Igénybe vett szolgáltatások költségei;5293;Nyomtatás, fénymásolás költsége;12350.6
+Július;M2;Igénybe vett szolgáltatások költségei;5294;Kamarai hozzájárulás;0.0
+Július;M2;Igénybe vett szolgáltatások költségei;5299;Egyéb igénybe vett szolgáltatások;1232115.0
+Július;M3;Egyéb szolgáltatások költségei;5311;Illetékek;0.0
+Július;M3;Egyéb szolgáltatások költségei;5321;Pénzügyi, befektetési díjak (bankköltség);115851.68
+Július;M3;Egyéb szolgáltatások költségei;5334;Életbiztosítás;62366.0
+Július;M3;Egyéb szolgáltatások költségei;5335;Kisvállalkozói Vagyon- és Felelõsségbiztosítás;0.0
+Július;M3;Egyéb szolgáltatások költségei;5336;Vagyonbiztosítás (Tûz- és Elemikár - Vodafone);2400.0
+Július;M3;Egyéb szolgáltatások költségei;535;Tagsági díjak;0.0
+Július;M3;Egyéb szolgáltatások költségei;5351;Tagsági díjak - MINKE;0.0
+Július;M3;Egyéb szolgáltatások költségei;5352;Tagsági díjak - PentaPRO tagság;5990.0
+Július;M4;Bérköltség;541;Bérköltség;4458493.0
+Július;M5;Személyi jellegû egyéb kifizetések;551;Személyi jellegû egyéb kifizetések dolgozóknak;87000.0
+Július;M5;Személyi jellegû egyéb kifizetések;552;Jóléti és kulturális költségek;21200.0
+Július;M5;Személyi jellegû egyéb kifizetések;554;Egyéb személyi jellegû kifizetés dolgozónak (védõszemüveg);0.0
+Július;M5;Személyi jellegû egyéb kifizetések;5571;Természetbeni juttatások;0.0
+Július;M5;Személyi jellegû egyéb kifizetések;5572;Természetbeni jutt. után fizetendõ Szoc. hj.;0.0
+Július;M5;Személyi jellegû egyéb kifizetések;5573;Természetbeni jutt. után fizetendõ SZJA;0.0
+Július;M5;Személyi jellegû egyéb kifizetések;5581;Távmunka költségtérítés;13908.0
+Július;M7;Értékcsökkenési leírás;571;Terv szerinti értékcsökkenési leírás  (ÉCS.);0.0
+Július;MA;Anyagjellegû ráfordítások;8141;Eladott áruk beszerzési értéke (ELÁBÉ);0.0
+Július;MA;Anyagjellegû ráfordítások;8151;Eladott szolgáltatások értéke (közvetítés);0.0
+Július;MD;Egyéb ráfordítások;8601;Bírságok, kötbérek, késedelmi kamatok, kártérítése;0.0
+Július;MD;Egyéb ráfordítások;8602;KIVA alapot növelõ bírság, kötbér, késedelmi kamat;14945.0
+Július;MD;Egyéb ráfordítások;8634;Költségek ellentételezésére adott támogatás;0.0
+Július;MD;Egyéb ráfordítások;8695;Nem a vállalkozással kapcsolatos költségek;0.0
+Július;ME;Pénzügyi mûveletek ráfordításai;8721;Fizetendõ kamatok és kamatjellegü ráfordítások;101146.03
+Július;ME;Pénzügyi mûveletek ráfordításai;876;Átváltáskori, értékeléskori árfolyamveszteség;50204.19
+Július;ME;Pénzügyi mûveletek ráfordításai;879;Egyéb pénzügyi ráfordítások;1.28
+Július;MG;Belföldi értékesítés nettó árbevétele;9111;Belföldi értékesítés árbevétele;-5103871.53
+Július;MJ;Pénzügyi mûveletek bevételei;976;Átváltáskori, értékeléskori árfolyamnyereség;0.0
+Július;MJ;Pénzügyi mûveletek bevételei;979;Egyéb pénzügyi bevételek;-1.3
+Augusztus;M1;Anyagköltség;5119;Egyéb anyag;0.0
+Augusztus;M1;Anyagköltség;5131;Alkatrészek;0.0
+Augusztus;M1;Anyagköltség;5135;Villamos energia;0.0
+Augusztus;M1;Anyagköltség;5137;Irodaszer, nyomtatvány;111894.72
+Augusztus;M2;Igénybe vett szolgáltatások költségei;5211;Postaköltség;0.0
+Augusztus;M2;Igénybe vett szolgáltatások költségei;5212;Telefonköltség;56250.0
+Augusztus;M2;Igénybe vett szolgáltatások költségei;5213;Szakkönyvek, újságok, napilapok;0.0
+Augusztus;M2;Igénybe vett szolgáltatások költségei;5214;Internetktg.;120010.0
+Augusztus;M2;Igénybe vett szolgáltatások költségei;5221;Bérleti díjak - Ingatlan;0.0
+Augusztus;M2;Igénybe vett szolgáltatások költségei;5223;Bérleti díjak - Eszköz;7500.0
+Augusztus;M2;Igénybe vett szolgáltatások költségei;5233;Karbantartási költségek - Eszköz;120000.0
+Augusztus;M2;Igénybe vett szolgáltatások költségei;5241;Hirdetés, reklám, propaganda költségek;283587.14
+Augusztus;M2;Igénybe vett szolgáltatások költségei;5251;Oktatás, továbbképzés költségei;0.0
+Augusztus;M2;Igénybe vett szolgáltatások költségei;5261;Utazási és kiküldetési költségek;31798.0
+Augusztus;M2;Igénybe vett szolgáltatások költségei;5262;Parkolási díj ;0.0
+Augusztus;M2;Igénybe vett szolgáltatások költségei;5291;Vagyonvédelmi költség;175000.0
+Augusztus;M2;Igénybe vett szolgáltatások költségei;5292;Tisztítás, takarítás költsége;238500.0
+Augusztus;M2;Igénybe vett szolgáltatások költségei;5293;Nyomtatás, fénymásolás költsége;13142.4
+Augusztus;M2;Igénybe vett szolgáltatások költségei;5294;Kamarai hozzájárulás;0.0
+Augusztus;M2;Igénybe vett szolgáltatások költségei;5299;Egyéb igénybe vett szolgáltatások;7087.0
+Augusztus;M3;Egyéb szolgáltatások költségei;5311;Illetékek;15787.4
+Augusztus;M3;Egyéb szolgáltatások költségei;5321;Pénzügyi, befektetési díjak (bankköltség);94413.57
+Augusztus;M3;Egyéb szolgáltatások költségei;5334;Életbiztosítás;0.0
+Augusztus;M3;Egyéb szolgáltatások költségei;5335;Kisvállalkozói Vagyon- és Felelõsségbiztosítás;0.0
+Augusztus;M3;Egyéb szolgáltatások költségei;5336;Vagyonbiztosítás (Tûz- és Elemikár - Vodafone);2400.0
+Augusztus;M3;Egyéb szolgáltatások költségei;535;Tagsági díjak;0.0
+Augusztus;M3;Egyéb szolgáltatások költségei;5351;Tagsági díjak - MINKE;0.0
+Augusztus;M3;Egyéb szolgáltatások költségei;5352;Tagsági díjak - PentaPRO tagság;5990.0
+Augusztus;M4;Bérköltség;541;Bérköltség;4665695.0
+Augusztus;M5;Személyi jellegû egyéb kifizetések;551;Személyi jellegû egyéb kifizetések dolgozóknak;87000.0
+Augusztus;M5;Személyi jellegû egyéb kifizetések;552;Jóléti és kulturális költségek;39700.0
+Augusztus;M5;Személyi jellegû egyéb kifizetések;554;Egyéb személyi jellegû kifizetés dolgozónak (védõszemüveg);0.0
+Augusztus;M5;Személyi jellegû egyéb kifizetések;5571;Természetbeni juttatások;0.0
+Augusztus;M5;Személyi jellegû egyéb kifizetések;5572;Természetbeni jutt. után fizetendõ Szoc. hj.;0.0
+Augusztus;M5;Személyi jellegû egyéb kifizetések;5573;Természetbeni jutt. után fizetendõ SZJA;0.0
+Augusztus;M5;Személyi jellegû egyéb kifizetések;5581;Távmunka költségtérítés;13086.0
+Augusztus;M7;Értékcsökkenési leírás;571;Terv szerinti értékcsökkenési leírás  (ÉCS.);0.0
+Augusztus;MA;Anyagjellegû ráfordítások;8141;Eladott áruk beszerzési értéke (ELÁBÉ);0.0
+Augusztus;MA;Anyagjellegû ráfordítások;8151;Eladott szolgáltatások értéke (közvetítés);2985.0
+Augusztus;MD;Egyéb ráfordítások;8601;Bírságok, kötbérek, késedelmi kamatok, kártérítése;328.0
+Augusztus;MD;Egyéb ráfordítások;8602;KIVA alapot növelõ bírság, kötbér, késedelmi kamat;14921.0
+Augusztus;MD;Egyéb ráfordítások;8634;Költségek ellentételezésére adott támogatás;0.0
+Augusztus;MD;Egyéb ráfordítások;8695;Nem a vállalkozással kapcsolatos költségek;0.0
+Augusztus;ME;Pénzügyi mûveletek ráfordításai;8721;Fizetendõ kamatok és kamatjellegü ráfordítások;0.0
+Augusztus;ME;Pénzügyi mûveletek ráfordításai;876;Átváltáskori, értékeléskori árfolyamveszteség;11913.24
+Augusztus;ME;Pénzügyi mûveletek ráfordításai;879;Egyéb pénzügyi ráfordítások;0.18
+Augusztus;MG;Belföldi értékesítés nettó árbevétele;9111;Belföldi értékesítés árbevétele;-5341278.18
+Augusztus;MJ;Pénzügyi mûveletek bevételei;976;Átváltáskori, értékeléskori árfolyamnyereség;0.0
+Augusztus;MJ;Pénzügyi mûveletek bevételei;979;Egyéb pénzügyi bevételek;-0.48
+Szeptember;M1;Anyagköltség;5119;Egyéb anyag;102976.38
+Szeptember;M1;Anyagköltség;5131;Alkatrészek;0.0
+Szeptember;M1;Anyagköltség;5135;Villamos energia;0.0
+Szeptember;M1;Anyagköltség;5137;Irodaszer, nyomtatvány;36120.0
+Szeptember;M2;Igénybe vett szolgáltatások költségei;5211;Postaköltség;0.0
+Szeptember;M2;Igénybe vett szolgáltatások költségei;5212;Telefonköltség;46484.0
+Szeptember;M2;Igénybe vett szolgáltatások költségei;5213;Szakkönyvek, újságok, napilapok;0.0
+Szeptember;M2;Igénybe vett szolgáltatások költségei;5214;Internetktg.;119310.0
+Szeptember;M2;Igénybe vett szolgáltatások költségei;5221;Bérleti díjak - Ingatlan;0.0
+Szeptember;M2;Igénybe vett szolgáltatások költségei;5223;Bérleti díjak - Eszköz;7500.0
+Szeptember;M2;Igénybe vett szolgáltatások költségei;5233;Karbantartási költségek - Eszköz;120000.0
+Szeptember;M2;Igénybe vett szolgáltatások költségei;5241;Hirdetés, reklám, propaganda költségek;82367.77
+Szeptember;M2;Igénybe vett szolgáltatások költségei;5251;Oktatás, továbbképzés költségei;119300.0
+Szeptember;M2;Igénybe vett szolgáltatások költségei;5261;Utazási és kiküldetési költségek;51607.0
+Szeptember;M2;Igénybe vett szolgáltatások költségei;5262;Parkolási díj ;0.0
+Szeptember;M2;Igénybe vett szolgáltatások költségei;5291;Vagyonvédelmi költség;0.0
+Szeptember;M2;Igénybe vett szolgáltatások költségei;5292;Tisztítás, takarítás költsége;110000.0
+Szeptember;M2;Igénybe vett szolgáltatások költségei;5293;Nyomtatás, fénymásolás költsége;10815.1
+Szeptember;M2;Igénybe vett szolgáltatások költségei;5294;Kamarai hozzájárulás;0.0
+Szeptember;M2;Igénybe vett szolgáltatások költségei;5299;Egyéb igénybe vett szolgáltatások;0.0
+Szeptember;M3;Egyéb szolgáltatások költségei;5311;Illetékek;0.0
+Szeptember;M3;Egyéb szolgáltatások költségei;5321;Pénzügyi, befektetési díjak (bankköltség);120479.65
+Szeptember;M3;Egyéb szolgáltatások költségei;5334;Életbiztosítás;0.0
+Szeptember;M3;Egyéb szolgáltatások költségei;5335;Kisvállalkozói Vagyon- és Felelõsségbiztosítás;0.0
+Szeptember;M3;Egyéb szolgáltatások költségei;5336;Vagyonbiztosítás (Tûz- és Elemikár - Vodafone);2400.0
+Szeptember;M3;Egyéb szolgáltatások költségei;535;Tagsági díjak;0.0
+Szeptember;M3;Egyéb szolgáltatások költségei;5351;Tagsági díjak - MINKE;0.0
+Szeptember;M3;Egyéb szolgáltatások költségei;5352;Tagsági díjak - PentaPRO tagság;5990.0
+Szeptember;M4;Bérköltség;541;Bérköltség;4963450.0
+Szeptember;M5;Személyi jellegû egyéb kifizetések;551;Személyi jellegû egyéb kifizetések dolgozóknak;87000.0
+Szeptember;M5;Személyi jellegû egyéb kifizetések;552;Jóléti és kulturális költségek;51000.0
+Szeptember;M5;Személyi jellegû egyéb kifizetések;554;Egyéb személyi jellegû kifizetés dolgozónak (védõszemüveg);0.0
+Szeptember;M5;Személyi jellegû egyéb kifizetések;5571;Természetbeni juttatások;0.0
+Szeptember;M5;Személyi jellegû egyéb kifizetések;5572;Természetbeni jutt. után fizetendõ Szoc. hj.;4778.0
+Szeptember;M5;Személyi jellegû egyéb kifizetések;5573;Természetbeni jutt. után fizetendõ SZJA;0.0
+Szeptember;M5;Személyi jellegû egyéb kifizetések;5581;Távmunka költségtérítés;6610.0
+Szeptember;M7;Értékcsökkenési leírás;571;Terv szerinti értékcsökkenési leírás  (ÉCS.);50491.0
+Szeptember;MA;Anyagjellegû ráfordítások;8141;Eladott áruk beszerzési értéke (ELÁBÉ);8915.0
+Szeptember;MA;Anyagjellegû ráfordítások;8151;Eladott szolgáltatások értéke (közvetítés);3975.0
+Szeptember;MD;Egyéb ráfordítások;8601;Bírságok, kötbérek, késedelmi kamatok, kártérítése;21.0
+Szeptember;MD;Egyéb ráfordítások;8602;KIVA alapot növelõ bírság, kötbér, késedelmi kamat;10480.0
+Szeptember;MD;Egyéb ráfordítások;8634;Költségek ellentételezésére adott támogatás;13524.0
+Szeptember;MD;Egyéb ráfordítások;8695;Nem a vállalkozással kapcsolatos költségek;0.0
+Szeptember;ME;Pénzügyi mûveletek ráfordításai;8721;Fizetendõ kamatok és kamatjellegü ráfordítások;0.0
+Szeptember;ME;Pénzügyi mûveletek ráfordításai;876;Átváltáskori, értékeléskori árfolyamveszteség;130689.13
+Szeptember;ME;Pénzügyi mûveletek ráfordításai;879;Egyéb pénzügyi ráfordítások;31.0
+Szeptember;MG;Belföldi értékesítés nettó árbevétele;9111;Belföldi értékesítés árbevétele;-9208573.26
+Szeptember;MJ;Pénzügyi mûveletek bevételei;976;Átváltáskori, értékeléskori árfolyamnyereség;-2534.41
+Szeptember;MJ;Pénzügyi mûveletek bevételei;979;Egyéb pénzügyi bevételek;-1995.67
+Október;M1;Anyagköltség;5119;Egyéb anyag;118850.0
+Október;M1;Anyagköltség;5131;Alkatrészek;0.0
+Október;M1;Anyagköltség;5135;Villamos energia;0.0
+Október;M1;Anyagköltség;5137;Irodaszer, nyomtatvány;80236.22
+Október;M2;Igénybe vett szolgáltatások költségei;5211;Postaköltség;4485.0
+Október;M2;Igénybe vett szolgáltatások költségei;5212;Telefonköltség;47736.0
+Október;M2;Igénybe vett szolgáltatások költségei;5213;Szakkönyvek, újságok, napilapok;0.0
+Október;M2;Igénybe vett szolgáltatások költségei;5214;Internetktg.;119310.0
+Október;M2;Igénybe vett szolgáltatások költségei;5221;Bérleti díjak - Ingatlan;0.0
+Október;M2;Igénybe vett szolgáltatások költségei;5223;Bérleti díjak - Eszköz;108000.0
+Október;M2;Igénybe vett szolgáltatások költségei;5233;Karbantartási költségek - Eszköz;120000.0
+Október;M2;Igénybe vett szolgáltatások költségei;5241;Hirdetés, reklám, propaganda költségek;81742.28
+Október;M2;Igénybe vett szolgáltatások költségei;5251;Oktatás, továbbképzés költségei;142150.0
+Október;M2;Igénybe vett szolgáltatások költségei;5261;Utazási és kiküldetési költségek;38390.0
+Október;M2;Igénybe vett szolgáltatások költségei;5262;Parkolási díj ;0.0
+Október;M2;Igénybe vett szolgáltatások költségei;5291;Vagyonvédelmi költség;0.0
+Október;M2;Igénybe vett szolgáltatások költségei;5292;Tisztítás, takarítás költsége;90000.0
+Október;M2;Igénybe vett szolgáltatások költségei;5293;Nyomtatás, fénymásolás költsége;8831.9
+Október;M2;Igénybe vett szolgáltatások költségei;5294;Kamarai hozzájárulás;0.0
+Október;M2;Igénybe vett szolgáltatások költségei;5299;Egyéb igénybe vett szolgáltatások;0.0
+Október;M3;Egyéb szolgáltatások költségei;5311;Illetékek;0.0
+Október;M3;Egyéb szolgáltatások költségei;5321;Pénzügyi, befektetési díjak (bankköltség);73786.37
+Október;M3;Egyéb szolgáltatások költségei;5334;Életbiztosítás;62366.0
+Október;M3;Egyéb szolgáltatások költségei;5335;Kisvállalkozói Vagyon- és Felelõsségbiztosítás;0.0
+Október;M3;Egyéb szolgáltatások költségei;5336;Vagyonbiztosítás (Tûz- és Elemikár - Vodafone);2400.0
+Október;M3;Egyéb szolgáltatások költségei;535;Tagsági díjak;0.0
+Október;M3;Egyéb szolgáltatások költségei;5351;Tagsági díjak - MINKE;14940.0
+Október;M3;Egyéb szolgáltatások költségei;5352;Tagsági díjak - PentaPRO tagság;5990.0
+Október;M4;Bérköltség;541;Bérköltség;4963450.0
+Október;M5;Személyi jellegû egyéb kifizetések;551;Személyi jellegû egyéb kifizetések dolgozóknak;143420.0
+Október;M5;Személyi jellegû egyéb kifizetések;552;Jóléti és kulturális költségek;43520.0
+Október;M5;Személyi jellegû egyéb kifizetések;554;Egyéb személyi jellegû kifizetés dolgozónak (védõszemüveg);0.0
+Október;M5;Személyi jellegû egyéb kifizetések;5571;Természetbeni juttatások;0.0
+Október;M5;Személyi jellegû egyéb kifizetések;5572;Természetbeni jutt. után fizetendõ Szoc. hj.;0.0
+Október;M5;Személyi jellegû egyéb kifizetések;5573;Természetbeni jutt. után fizetendõ SZJA;0.0
+Október;M5;Személyi jellegû egyéb kifizetések;5581;Távmunka költségtérítés;21150.0
+Október;M7;Értékcsökkenési leírás;571;Terv szerinti értékcsökkenési leírás  (ÉCS.);0.0
+Október;MA;Anyagjellegû ráfordítások;8141;Eladott áruk beszerzési értéke (ELÁBÉ);30630.0
+Október;MA;Anyagjellegû ráfordítások;8151;Eladott szolgáltatások értéke (közvetítés);6780.0
+Október;MD;Egyéb ráfordítások;8601;Bírságok, kötbérek, késedelmi kamatok, kártérítése;0.0
+Október;MD;Egyéb ráfordítások;8602;KIVA alapot növelõ bírság, kötbér, késedelmi kamat;0.0
+Október;MD;Egyéb ráfordítások;8634;Költségek ellentételezésére adott támogatás;676.0
+Október;MD;Egyéb ráfordítások;8695;Nem a vállalkozással kapcsolatos költségek;0.0
+Október;ME;Pénzügyi mûveletek ráfordításai;8721;Fizetendõ kamatok és kamatjellegü ráfordítások;102259.14
+Október;ME;Pénzügyi mûveletek ráfordításai;876;Átváltáskori, értékeléskori árfolyamveszteség;6473.23
+Október;ME;Pénzügyi mûveletek ráfordításai;879;Egyéb pénzügyi ráfordítások;0.0
+Október;MG;Belföldi értékesítés nettó árbevétele;9111;Belföldi értékesítés árbevétele;-5151623.78
+Október;MJ;Pénzügyi mûveletek bevételei;976;Átváltáskori, értékeléskori árfolyamnyereség;0.0
+Október;MJ;Pénzügyi mûveletek bevételei;979;Egyéb pénzügyi bevételek;-0.5
+November;M1;Anyagköltség;5119;Egyéb anyag;0.0
+November;M1;Anyagköltség;5131;Alkatrészek;0.0
+November;M1;Anyagköltség;5135;Villamos energia;263104.0
+November;M1;Anyagköltség;5137;Irodaszer, nyomtatvány;57171.0
+November;M2;Igénybe vett szolgáltatások költségei;5211;Postaköltség;0.0
+November;M2;Igénybe vett szolgáltatások költségei;5212;Telefonköltség;45562.0
+November;M2;Igénybe vett szolgáltatások költségei;5213;Szakkönyvek, újságok, napilapok;0.0
+November;M2;Igénybe vett szolgáltatások költségei;5214;Internetktg.;122167.0
+November;M2;Igénybe vett szolgáltatások költségei;5221;Bérleti díjak - Ingatlan;80000.0
+November;M2;Igénybe vett szolgáltatások költségei;5223;Bérleti díjak - Eszköz;7500.0
+November;M2;Igénybe vett szolgáltatások költségei;5233;Karbantartási költségek - Eszköz;120000.0
+November;M2;Igénybe vett szolgáltatások költségei;5241;Hirdetés, reklám, propaganda költségek;80312.31
+November;M2;Igénybe vett szolgáltatások költségei;5251;Oktatás, továbbképzés költségei;109250.0
+November;M2;Igénybe vett szolgáltatások költségei;5261;Utazási és kiküldetési költségek;42190.0
+November;M2;Igénybe vett szolgáltatások költségei;5262;Parkolási díj ;0.0
+November;M2;Igénybe vett szolgáltatások költségei;5291;Vagyonvédelmi költség;0.0
+November;M2;Igénybe vett szolgáltatások költségei;5292;Tisztítás, takarítás költsége;90000.0
+November;M2;Igénybe vett szolgáltatások költségei;5293;Nyomtatás, fénymásolás költsége;13934.2
+November;M2;Igénybe vett szolgáltatások költségei;5294;Kamarai hozzájárulás;0.0
+November;M2;Igénybe vett szolgáltatások költségei;5299;Egyéb igénybe vett szolgáltatások;78202.0
+November;M3;Egyéb szolgáltatások költségei;5311;Illetékek;0.0
+November;M3;Egyéb szolgáltatások költségei;5321;Pénzügyi, befektetési díjak (bankköltség);176644.03
+November;M3;Egyéb szolgáltatások költségei;5334;Életbiztosítás;0.0
+November;M3;Egyéb szolgáltatások költségei;5335;Kisvállalkozói Vagyon- és Felelõsségbiztosítás;0.0
+November;M3;Egyéb szolgáltatások költségei;5336;Vagyonbiztosítás (Tûz- és Elemikár - Vodafone);2400.0
+November;M3;Egyéb szolgáltatások költségei;535;Tagsági díjak;0.0
+November;M3;Egyéb szolgáltatások költségei;5351;Tagsági díjak - MINKE;0.0
+November;M3;Egyéb szolgáltatások költségei;5352;Tagsági díjak - PentaPRO tagság;5990.0
+November;M4;Bérköltség;541;Bérköltség;4963450.0
+November;M5;Személyi jellegû egyéb kifizetések;551;Személyi jellegû egyéb kifizetések dolgozóknak;87000.0
+November;M5;Személyi jellegû egyéb kifizetések;552;Jóléti és kulturális költségek;156158.0
+November;M5;Személyi jellegû egyéb kifizetések;554;Egyéb személyi jellegû kifizetés dolgozónak (védõszemüveg);61500.0
+November;M5;Személyi jellegû egyéb kifizetések;5571;Természetbeni juttatások;182850.0
+November;M5;Személyi jellegû egyéb kifizetések;5572;Természetbeni jutt. után fizetendõ Szoc. hj.;0.0
+November;M5;Személyi jellegû egyéb kifizetések;5573;Természetbeni jutt. után fizetendõ SZJA;0.0
+November;M5;Személyi jellegû egyéb kifizetések;5581;Távmunka költségtérítés;24718.0
+November;M7;Értékcsökkenési leírás;571;Terv szerinti értékcsökkenési leírás  (ÉCS.);0.0
+November;MA;Anyagjellegû ráfordítások;8141;Eladott áruk beszerzési értéke (ELÁBÉ);0.0
+November;MA;Anyagjellegû ráfordítások;8151;Eladott szolgáltatások értéke (közvetítés);0.0
+November;MD;Egyéb ráfordítások;8601;Bírságok, kötbérek, késedelmi kamatok, kártérítése;0.0
+November;MD;Egyéb ráfordítások;8602;KIVA alapot növelõ bírság, kötbér, késedelmi kamat;0.0
+November;MD;Egyéb ráfordítások;8634;Költségek ellentételezésére adott támogatás;0.0
+November;MD;Egyéb ráfordítások;8695;Nem a vállalkozással kapcsolatos költségek;0.0
+November;ME;Pénzügyi mûveletek ráfordításai;8721;Fizetendõ kamatok és kamatjellegü ráfordítások;0.0
+November;ME;Pénzügyi mûveletek ráfordításai;876;Átváltáskori, értékeléskori árfolyamveszteség;29845.86
+November;ME;Pénzügyi mûveletek ráfordításai;879;Egyéb pénzügyi ráfordítások;0.69
+November;MG;Belföldi értékesítés nettó árbevétele;9111;Belföldi értékesítés árbevétele;-6260188.22
+November;MJ;Pénzügyi mûveletek bevételei;976;Átváltáskori, értékeléskori árfolyamnyereség;0.0
+November;MJ;Pénzügyi mûveletek bevételei;979;Egyéb pénzügyi bevételek;-0.16
+December;M1;Anyagköltség;5119;Egyéb anyag;0.0
+December;M1;Anyagköltség;5131;Alkatrészek;0.0
+December;M1;Anyagköltség;5135;Villamos energia;80193.0
+December;M1;Anyagköltség;5137;Irodaszer, nyomtatvány;7559.06
+December;M2;Igénybe vett szolgáltatások költségei;5211;Postaköltség;1190.0
+December;M2;Igénybe vett szolgáltatások költségei;5212;Telefonköltség;79223.0
+December;M2;Igénybe vett szolgáltatások költségei;5213;Szakkönyvek, újságok, napilapok;0.0
+December;M2;Igénybe vett szolgáltatások költségei;5214;Internetktg.;216768.0
+December;M2;Igénybe vett szolgáltatások költségei;5221;Bérleti díjak - Ingatlan;0.0
+December;M2;Igénybe vett szolgáltatások költségei;5223;Bérleti díjak - Eszköz;15000.0
+December;M2;Igénybe vett szolgáltatások költségei;5233;Karbantartási költségek - Eszköz;120000.0
+December;M2;Igénybe vett szolgáltatások költségei;5241;Hirdetés, reklám, propaganda költségek;81165.24
+December;M2;Igénybe vett szolgáltatások költségei;5251;Oktatás, továbbképzés költségei;67558.0
+December;M2;Igénybe vett szolgáltatások költségei;5261;Utazási és kiküldetési költségek;36090.0
+December;M2;Igénybe vett szolgáltatások költségei;5262;Parkolási díj ;0.0
+December;M2;Igénybe vett szolgáltatások költségei;5291;Vagyonvédelmi költség;0.0
+December;M2;Igénybe vett szolgáltatások költségei;5292;Tisztítás, takarítás költsége;20000.0
+December;M2;Igénybe vett szolgáltatások költségei;5293;Nyomtatás, fénymásolás költsége;21559.9
+December;M2;Igénybe vett szolgáltatások költségei;5294;Kamarai hozzájárulás;0.0
+December;M2;Igénybe vett szolgáltatások költségei;5299;Egyéb igénybe vett szolgáltatások;89900.0
+December;M3;Egyéb szolgáltatások költségei;5311;Illetékek;0.0
+December;M3;Egyéb szolgáltatások költségei;5321;Pénzügyi, befektetési díjak (bankköltség);163067.39
+December;M3;Egyéb szolgáltatások költségei;5334;Életbiztosítás;0.0
+December;M3;Egyéb szolgáltatások költségei;5335;Kisvállalkozói Vagyon- és Felelõsségbiztosítás;7769.0
+December;M3;Egyéb szolgáltatások költségei;5336;Vagyonbiztosítás (Tûz- és Elemikár - Vodafone);4800.0
+December;M3;Egyéb szolgáltatások költségei;535;Tagsági díjak;0.0
+December;M3;Egyéb szolgáltatások költségei;5351;Tagsági díjak - MINKE;0.0
+December;M3;Egyéb szolgáltatások költségei;5352;Tagsági díjak - PentaPRO tagság;5990.0
+December;M4;Bérköltség;541;Bérköltség;5749164.0
+December;M5;Személyi jellegû egyéb kifizetések;551;Személyi jellegû egyéb kifizetések dolgozóknak;87000.0
+December;M5;Személyi jellegû egyéb kifizetések;552;Jóléti és kulturális költségek;0.0
+December;M5;Személyi jellegû egyéb kifizetések;554;Egyéb személyi jellegû kifizetés dolgozónak (védõszemüveg);0.0
+December;M5;Személyi jellegû egyéb kifizetések;5571;Természetbeni juttatások;184010.0
+December;M5;Személyi jellegû egyéb kifizetések;5572;Természetbeni jutt. után fizetendõ Szoc. hj.;0.0
+December;M5;Személyi jellegû egyéb kifizetések;5573;Természetbeni jutt. után fizetendõ SZJA;0.0
+December;M5;Személyi jellegû egyéb kifizetések;5581;Távmunka költségtérítés;11079.0
+December;M7;Értékcsökkenési leírás;571;Terv szerinti értékcsökkenési leírás  (ÉCS.);0.0
+December;MA;Anyagjellegû ráfordítások;8141;Eladott áruk beszerzési értéke (ELÁBÉ);0.0
+December;MA;Anyagjellegû ráfordítások;8151;Eladott szolgáltatások értéke (közvetítés);10304.0
+December;MD;Egyéb ráfordítások;8601;Bírságok, kötbérek, késedelmi kamatok, kártérítése;45834.0
+December;MD;Egyéb ráfordítások;8602;KIVA alapot növelõ bírság, kötbér, késedelmi kamat;0.0
+December;MD;Egyéb ráfordítások;8634;Költségek ellentételezésére adott támogatás;0.0
+December;MD;Egyéb ráfordítások;8695;Nem a vállalkozással kapcsolatos költségek;15120.0
+December;ME;Pénzügyi mûveletek ráfordításai;8721;Fizetendõ kamatok és kamatjellegü ráfordítások;3.0
+December;ME;Pénzügyi mûveletek ráfordításai;876;Átváltáskori, értékeléskori árfolyamveszteség;17404.23
+December;ME;Pénzügyi mûveletek ráfordításai;879;Egyéb pénzügyi ráfordítások;0.0
+December;MG;Belföldi értékesítés nettó árbevétele;9111;Belföldi értékesítés árbevétele;-12998421.99
+December;MJ;Pénzügyi mûveletek bevételei;976;Átváltáskori, értékeléskori árfolyamnyereség;-24628.86
+December;MJ;Pénzügyi mûveletek bevételei;979;Egyéb pénzügyi bevételek;0.0
