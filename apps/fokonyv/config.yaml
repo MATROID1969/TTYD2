@@ -1,1 +1,24 @@
+app:
+  id: invoice
+  name: Főkönyvi adatok elemzése
+  description: Egy könyvelő ügyfelének adataiank lekérdezése
+  language: hu
 
+data:
+  type: csv
+  file: data.csv
+  separator: ";"
+  encoding: utf-8
+
+ai:
+  model: gpt-4.1
+  temperature: 0.0
+  stt_model: whisper-1
+  stt_language: hu
+
+ui:
+  layout: wide
+  theme_color: "#7a0019"
+  show_code_panel: true
+  enable_voice: true
+  enable_pwa: true
